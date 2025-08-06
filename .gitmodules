@@ -1,0 +1,18 @@
+[submodule "nvim/nvim/pack/github/start/copilot.vim"]
+	path = nvim/nvim/pack/github/start/copilot.vim
+	url = https://github.com/github/copilot.vim
+[submodule "i3/i3/rofi_themes/rofi"]
+	path = i3/i3/rofi_themes/rofi
+	url = https://github.com/adi1090x/rofi
+[submodule "zsh/.zsh/plugins/autojump"]
+	path = zsh/.zsh/plugins/autojump
+	url = https://github.com/wting/autojump.git
+[submodule "zsh/.zsh/plugins/fast-syntax-highlighting"]
+	path = zsh/.zsh/plugins/fast-syntax-highlighting
+	url = https://github.com/zdharma-continuum/fast-syntax-highlighting.git
+[submodule "zsh/.zsh/plugins/zsh-autosuggestions"]
+	path = zsh/.zsh/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
+[submodule "zsh/.zsh/plugins/zsh-completions"]
+	path = zsh/.zsh/plugins/zsh-completions
+	url = https://github.com/zsh-users/zsh-completions.git

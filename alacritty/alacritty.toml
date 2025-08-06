@@ -1,0 +1,93 @@
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[colors.cursor]
+cursor = "0x000000"
+text = "0xffffff"
+
+# [colors.cursor.bright]
+# black = "0x1c61c2"
+# blue = "0x00ff00"
+# cyan = "0x0abdc6"
+# green = "0xd300c4"
+# magenta = "0x711c91"
+# red = "0xff0000"
+# white = "0xd7d7d5"
+# yellow = "0xf57800"
+
+# DARK THEME
+# [colors.primary]
+# background = "0x000b1e"
+# foreground = "0x0abdc6"
+
+### TOKYO NIGHT THEME ###
+# [colors.bright]
+# black = "#444b6a"
+# blue = "#7da6ff"
+# cyan = "#0db9d7"
+# green = "#b9f27c"
+# magenta = "#bb9af7"
+# red = "#ff7a93"
+# white = "#acb0d0"
+# yellow = "#ff9e64"
+# 
+# [colors.normal]
+# black = "#32344a"
+# blue = "#7aa2f7"
+# cyan = "#449dab"
+# green = "#9ece6a"
+# magenta = "#ad8ee6"
+# red = "#f7768e"
+# white = "#787c99"
+# yellow = "#e0af68"
+# 
+# [colors.primary]
+# background = "#1a1b26"
+# foreground = "#a9b1d6"
+###
+
+#### LIGHT THEME
+# Default colors
+[colors.primary]
+background = '#fbf1c7'
+foreground = '#654735'
+
+# Normal colors
+[colors.normal]
+black   = '#654735'
+red     = '#c14a4a'
+green   = '#6c782e'
+yellow  = '#b47109'
+blue    = '#45707a'
+magenta = '#945e80'
+cyan    = '#4c7a5d'
+white   = '#eee0b7'
+
+# Bright colors (same as normal colors)
+[colors.bright]
+black   = '#654735'
+red     = '#c14a4a'
+green   = '#6c782e'
+yellow  = '#b47109'
+blue    = '#45707a'
+magenta = '#945e80'
+cyan    = '#4c7a5d'
+white   = '#eee0b7'
+######
+
+[font]
+size = 10.0
+
+[font.normal]
+family = "JetBrainsMono Nerd Font Mono"
+style = "Bold"
+
+[mouse]
+hide_when_typing = true
+
+[window]
+opacity = 0.9
+
+[shell]
+program = "/bin/zsh"
+args = []

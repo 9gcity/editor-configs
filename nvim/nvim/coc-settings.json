@@ -1,0 +1,8 @@
+{
+  "git.enableGutters": true,
+  "git.addGlGutters": true,
+  "git.addedSign.hlGroup": "DiffAdd",
+  "git.changedSign.hlGroup": "DiffChange",
+  "git.removedSign.hlGroup": "DiffDelete",
+  "git.addGBlameToBufferVar": true,
+}
